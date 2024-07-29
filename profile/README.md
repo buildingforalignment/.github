@@ -1,4 +1,4 @@
-## Welcome to buildingforalignment 👋
+# Welcome to buildingforalignment 👋
 
 Hi there!
 
@@ -25,12 +25,20 @@ awareness to the utility of these methods, to drive further investment. We do th
 
 \* it would be interesting to build intuition on this claim using compuational methods
 
+
+## Active research topics
+
 Below is a list of research topics planned:
 - [In progress] What does the distribution of lifetime rewards, despite using the same starting model, tell us about agency?
-- What happens if an agent has multiple reward functions? What happens based on varying correlations between the reward functions (i.e. positive = aligned, negative = misaligned)?
-- What happens if different agents in the system have different reward functions? Does this impact the degree of co-operations versus competition? Do particular social behaviour patterns emerge?
+- What happens if an agent has multiple reward functions? What happens based on varying correlations between the reward functions (i.e.
+  positive = aligned, negative = misaligned)?
+- What happens if different agents in the system have different reward functions? Does this impact the degree of co-operations versus
+  competition? Do particular social behaviour patterns emerge?
 - Does human cognition depend on random sampling processes? How does this relate to the ramdomness seen in other agents?
 - How do partnering agents affect stability and long term orientation?
+- How do we improve generalizeability/applicability of this research to human cognition? Can we repeat the setup and findings of existing
+  studies using computational agents? What might we learn about the differences versus similarities of these models?
+- ...
 
 <!--
 
