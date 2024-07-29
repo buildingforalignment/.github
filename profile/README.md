@@ -2,13 +2,13 @@
 
 Hi there!
 
-buildingforalignment is a home for advancing the use of computational sciences in psychology and philosophy research.
+buildingforalignment is a home for advancing the use of computational sciences in psychology, social sciences and philosophy research.
 
 Particular interests include the use of simulation methods, reinforcement learning and large language models to better understand human 
 nature and the nature of reality, as we experience it.
 
-This work takes the view that agent models may be useful models of human cognition. No claims are made about the potential equivalency of 
-these models to human cognition. All models are analogies of a system, used to study a subset of the qualities of the system. We believe 
+This work takes the view that agent models may be useful models of human systems. No claims are made about the potential equivalency of 
+these models to humans. All models are analogies of a system, used to study a subset of the qualities of the system. We believe 
 there exist uncountable numbers of computational models which may help us study human cognition and the resulting philosophical implications.
 
 It may be helpful to think of this research as an extension of what exists today in the form of animal research (including studying the very 
