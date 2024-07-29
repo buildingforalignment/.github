@@ -2,10 +2,10 @@
 
 Hi there!
 
-buildingforalignment is a home for advancing the use of computational sciences in psychology, social sciences and philosophy research.
+buildingforalignment's mission is further our understanding of the human condition by advancing the use of computational sciences in philosophy.
 
-Particular interests include the use of simulation methods, reinforcement learning and large language models to better understand human 
-nature and the nature of reality, as we experience it.
+Particular interests include the use of simulation methods, reinforcement learning and gradient based models (including large language models) 
+to better reason about human nature and the nature of reality, as we experience it.
 
 This work takes the view that agent models may be useful models of human systems. No claims are made about the potential equivalency of 
 these models to humans. All models are analogies of a system, used to study a subset of the qualities of the system. We believe 
